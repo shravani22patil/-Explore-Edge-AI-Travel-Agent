@@ -358,9 +358,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/shravani22patil)
-- Email: shravanipatil580@gmail.com
-- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shravani-patil-38791b286/))
+- GitHub: [shravani22patil]([https://github.com/shravani22patil])
+- - Email: shravanipatil580@gmail.com
+- LinkedIn: [Your Profile]((https://www.linkedin.com/in/shravani-patil-38791b286/))
 
 ---
 
