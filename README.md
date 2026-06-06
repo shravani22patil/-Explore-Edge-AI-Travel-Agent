@@ -383,4 +383,4 @@ For issues, questions, or suggestions:
 
 **⭐ Star this repo if you find it useful!**
 
-**Made with ❤️ and Python**
+**Made with ❤️  and Python**
